@@ -1,1 +1,3 @@
-Code for generating Fig. 6, as well as the training and test datasets necesary for the training of the LSTM model. Functions for using the LSTM model are found in LSTM_8_16.py.
+Code for generating Fig. 6, as well as the training and test datasets necesary for the training of the LSTM model. 
+Of note: Xtrain is the concatenation of Xtrain1 and Xtrain2 (separated in two for file size issues).
+Functions for using the LSTM model are found in LSTM_8_16.py.
